@@ -1,2 +1,2 @@
 # python-challenge
-missing some step but unable to figure it out. will have to redo home after once graded. 
+missing some steps but unable to figure it out. Will have to redo homework after once graded. 
